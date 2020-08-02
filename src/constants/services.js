@@ -1,22 +1,22 @@
 import React from "react"
-import { FaCode, FaSketch, FaAndroid } from "react-icons/fa"
+import { FaCode} from "react-icons/fa"
 export default [
   {
     id: 1,
     icon: <FaCode className="service-icon" />,
-    title: "web development",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    title: "front-end development",
+    text: `Responsible for client-side implemention of visual elements that users see and interact with in a web application`,
   },
   {
     id: 2,
-    icon: <FaSketch className="service-icon" />,
-    title: "web design",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    icon: <FaCode className="service-icon" />,
+    title: "back-end development",
+    text: `Combination of a database and a service-side software running on web servers, cloud-based servers, or a hybrid of both.`,
   },
   {
     id: 3,
-    icon: <FaAndroid className="service-icon" />,
+    icon: <FaCode className="service-icon" />,
     title: "app design",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    text: `Tackling projects that involve databases, building user-facing apps, or even work with clients during the planning phase of projects.`,
   },
 ]
