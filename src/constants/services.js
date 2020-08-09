@@ -16,7 +16,7 @@ export default [
   {
     id: 3,
     icon: <FaCode className="service-icon" />,
-    title: "app design",
+    title: "Full-stack development",
     text: `Tackling projects that involve databases, building user-facing apps, or even work with clients during the planning phase of projects.`,
   },
 ]
