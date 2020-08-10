@@ -11,7 +11,7 @@ export default [
     id: 2,
     icon: <FaCode className="service-icon" />,
     title: "back-end development",
-    text: `Combination of a database and a service-side software running on web servers, cloud-based servers, or a hybrid of both.`,
+    text: `Combination of a database and a server-side software running on web servers, cloud-based servers, or a hybrid of both.`,
   },
   {
     id: 3,
