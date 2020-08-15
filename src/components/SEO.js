@@ -21,7 +21,6 @@ const SEO = ({ title }) => {
   const { site } = useStaticQuery(query)
   const {
     siteDesc,
-    author,
     image,
     siteUrl,
     siteTitle,
