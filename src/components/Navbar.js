@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="nav-center">
         <div className="nav-header">
           <img src={logo} alt="hay web" />
-          <buttton type="button" className="toggle-btn"><FaAlignRight></FaAlignRight></buttton>
+          <button type="button" className="toggle-btn"><FaAlignRight></FaAlignRight></button>
         </div>
         <PageLinks styleClass="nav-links"></PageLinks>
       </div>
