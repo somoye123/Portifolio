@@ -7,7 +7,7 @@
 module.exports = {
   siteMetadata: {
     title: "Portfolio",
-    description: "This is my Portfolio Site built using gatsby and strapi",
+    description: "Somoye Portfolio Site built using gatsby and strapi",
     author: "@somoye",
     twitterUsername: "@ayotunde_197",
     image: "/twitter-img.png",
